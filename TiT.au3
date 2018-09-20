@@ -5,7 +5,7 @@
 #AutoIt3Wrapper_Compression=4
 #AutoIt3Wrapper_Res_Comment=Total Installer Thingy
 #AutoIt3Wrapper_Res_Description=TiT by krawhitham
-#AutoIt3Wrapper_Res_Fileversion=2.0.4.0
+#AutoIt3Wrapper_Res_Fileversion=2.0.5.0
 #AutoIt3Wrapper_Res_LegalCopyright=EAmods
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 #include <GUIConstants.au3>

@@ -514,7 +514,7 @@ stadium\wrigday.big
 stadium\wrignite.big
 stadium\yankday.big
 stadium\yanknite.big
-```
+
 
 Files that can be installed
 any files that go inside logos.big
@@ -557,7 +557,7 @@ spch_pa\tnamedat.big
 Installed files
 
 spch_pbp\stdnmhdr.big files needs to be in \stdnmhdr
-cd\spch_pbp\stdnmdat.big files needs to be in \stdnmdat
+cd\spch_pbp\stdnmdat.big files needs to be in \stdnmdat```
 
 spch_pbp\tnamehdr.big files needs to be in \pbp-tnamehdr
 cd\spch_pbp\tnamedat.big files needs to be in \pbp-tnamedat

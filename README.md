@@ -1,4 +1,4 @@
-Supported archive formats are: 7z, zip, rar, TiT, & ace
+```Supported archive formats are: 7z, zip, rar, TiT, & ace
 
 TiT 2.0.5
 Installer Change
@@ -130,7 +130,7 @@ One other note for mods to be installed they have to be the correct file name ve
 
 This program supports the following files
 
-```Complete files
+Complete files
 credits.tsv
 FEENG.LOC
 IGENG.LOC
@@ -552,7 +552,7 @@ spch_pbp\tnamedat.big
 spch_pa\pnamehdr.big
 spch_pa\tnamehdr.big
 spch_pa\pnamedat.big
-spch_pa\tnamedat.big```
+spch_pa\tnamedat.big
 
 Installed files
 
@@ -563,4 +563,4 @@ spch_pbp\tnamehdr.big files needs to be in \pbp-tnamehdr
 cd\spch_pbp\tnamedat.big files needs to be in \pbp-tnamedat
 
 spch_pa\tnamehdr.big files needs to be in \pa-tnamehdr
-cd\spch_pa\tnamedat.big files needs to be in \pa-tnamedat
+cd\spch_pa\tnamedat.big files needs to be in \pa-tnamedat```
